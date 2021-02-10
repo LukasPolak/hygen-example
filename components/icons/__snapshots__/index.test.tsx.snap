@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icons should match previous snapshot - IconBrave: base - IconBrave 1`] = `
+<body>
+  <div>
+    <svg />
+  </div>
+</body>
+`;
