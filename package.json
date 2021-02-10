@@ -5,11 +5,16 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "hygen:component": "hygen component new",
+    "hygen:icon": "hygen icon new"
   },
   "dependencies": {
     "next": "10.0.4",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "hygen": "^6.0.4"
   }
 }
