@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Hygen
+
+- run `yarn run hygen:component` to generate component
+- run `yarn run hygen:icon` to generate icon
+
 ## Getting Started
 
 First, run the development server:
