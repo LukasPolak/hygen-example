@@ -1,10 +1,9 @@
 ---
 to: components/<%= h.changeCase.kebab(name) %>/index.test.tsx
 ---
+import { render } from '@testing-library/react'
 
 import { <%= h.changeCase.pascal(name) %> } from '.'
-
-import { render } from '~/test-utils'
 
 describe('<%= h.changeCase.pascal(name) %>', () => {
   const component = <<%= h.changeCase.pascal(name) %>><%= h.changeCase.pascal(name) %></<%= h.changeCase.pascal(name) %>>
