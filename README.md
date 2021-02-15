@@ -5,6 +5,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - run `yarn run hygen:component` to generate component
 - run `yarn run hygen:icon` to generate icon
 
+## Demo
+[CodeSandbox](https://codesandbox.io/s/hygen-example-k18po)
+
 ## Getting Started
 
 First, run the development server:
