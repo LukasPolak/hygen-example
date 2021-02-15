@@ -1,5 +1,5 @@
 ---
-to: components/<%= h.changeCase.kebab(name) %>/types.d.ts
+to: components/<%= h.changeCase.kebab(name) %>/types.ts
 ---
 
 export type <%= h.changeCase.pascal(name) %>Props = {}
